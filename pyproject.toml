@@ -5,12 +5,12 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "gmx_md_prepper"
 version = "0.0.1"
+requires-python = ">=3.7"
 authors = [
     {name = "Krzysztof Czołczyński"}
 ]
 description = "An automatic preparator for MD, using GROMACS"
 readme = "README.md"
-requires_python = "3.11"
 keywords = ["gromacs", "molecular dynamics"]
 license = {text = "GPL-3.0-only"}
 classifiers = [
