@@ -10,7 +10,7 @@ authors = [
 ]
 description = "An automatic preparator for MD, using GROMACS"
 readme = "README.md"
-requires_python = ">=3.7"
+requires_python = "3.11"
 keywords = ["gromacs", "molecular dynamics"]
 license = {text = "GPL-3.0-only"}
 classifiers = [
