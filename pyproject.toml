@@ -3,7 +3,7 @@ requires = ["setuptools", "setuptools-scm"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "gmx-md-prepper"
+name = "gmx_md_prepper"
 version = "0.0.1"
 authors = [
     {name = "Krzysztof Czołczyński"}
@@ -15,8 +15,6 @@ keywords = ["gromacs", "molecular dynamics"]
 license = {text = "GPL-3.0-only"}
 classifiers = [
     "Programming Language :: Python :: 3"
-]
-dependencies = [
 ]
 
 [project.scripts]
