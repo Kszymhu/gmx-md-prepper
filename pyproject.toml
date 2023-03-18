@@ -5,7 +5,7 @@ requires = ["setuptools", "setuptools-scm"]
 name = "gmx-md-prepper"
 version = "0.0.1"
 authors = [
-    {name = "Krzysztof Czołczyński", email = ""}
+    {name = "Krzysztof Czołczyński"}
 ]
 description = "An automatic preparator for MD, using GROMACS"
 readme = "README.md"
