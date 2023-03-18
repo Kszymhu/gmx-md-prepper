@@ -19,4 +19,4 @@ dependencies = [
 ]
 
 [project.scripts]
-test = "gmx-md-prepper.gmp:test"
+test = "gmx_md_prepper.gmp:test"
